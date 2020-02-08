@@ -1,18 +1,17 @@
 const Order = require('./order')
 
 class OrderBuilder{
-    constructor(name ,sales=0,price=0){
-        this.name = name;
-        this.sales = sales;
-        this.price = price;
+    constructor(id ,amount=0,payment_mode="cod"){
+        this.id = id;
+        this.amount = amount;
+        this.payment_mode = payment_mode;
     }
-    makePaid(price){
-        this.isFree = false;
-        this.price = price;
+    order_date(){
+        this.order_date = true;
         return this;
     }
-    makeCampain(){
-        this.isCampain = true;
+    customer_id(){
+        this.customer_id = true;
         return this;
     }
     build(){

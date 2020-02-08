@@ -1,14 +1,14 @@
-class Course{
+class Order{
     constructor(builder){
-        this.name = builder.name;
-        this.sales = builder.sales || 0;
-        this.isFree = builder.isFree;
-        this.price = builder.price || 0;
-        this.isCampain = builder.isCampain;
+        this.id = builder.id;
+        this.amount = builder.amount || 0;
+        this.payment_mode = builder.payment_mode;
+        this.order_date = builder.order_date? "1/2/3":null
+        this.customer_id = builder.customer_id;
     }
     toString(){
         return console.log(JSON.stringify(this))
     }
 }
 
-module.exports = Course
+module.exports = Order
