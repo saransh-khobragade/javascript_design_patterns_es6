@@ -5,3 +5,5 @@ const course_2 = new course_builder(2).build()
 
 course_1.toString()
 course_2.toString()
+
+//Builder pattern 

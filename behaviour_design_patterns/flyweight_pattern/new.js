@@ -85,3 +85,7 @@ const usedMemory = ((finalMemory - initialMemory) / 1000000).toFixed(2);
 
 console.log('used memory: ' + usedMemory + ' mb');
 
+
+//Flyweight can be used for shared content
+//which we know can be repeated combination using dp we can cache that
+

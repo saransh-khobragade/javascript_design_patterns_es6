@@ -7,3 +7,5 @@ const somuya = factory_method("principle","soumya",null,120227272,"NIT")
 console.log(saransh)
 console.log(arjun)
 console.log(somuya)
+
+//one method will created diff type of object as requirement,no need to import every thing

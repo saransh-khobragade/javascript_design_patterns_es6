@@ -1,0 +1,175 @@
+{
+    "category": [
+        {
+            "name": "Exclusive",
+            "product": [
+                {
+                    "name": "chicken biryani1",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap1",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature1",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "Biryani",
+            "product": [
+                {
+                    "name": "chicken biryani2",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap2",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature2",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "Lunch",
+            "product": [
+                {
+                    "name": "chicken biryani3",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap3",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature3",
+                    "price": 20
+                }
+            ]
+        }
+    ],
+    "brands": [
+        {
+            "name": "Behrouz",
+            "product": [
+                {
+                    "name": "chicken biryani11",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap12",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature13",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "Savor",
+            "product": [
+                {
+                    "name": "chicken biryan21",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap22",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature23",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "lunchbox",
+            "product": [
+                {
+                    "name": "chicken biryani3",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap3",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature3",
+                    "price": 20
+                }
+            ]
+        }
+    ],
+    "collection": [
+        {
+            "name": "meal 150",
+            "product": [
+                {
+                    "name": "chicken biryani3",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap3",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature3",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "only 100",
+            "product": [
+                {
+                    "name": "chicken biryani3",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap3",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature3",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "name": "healthy",
+            "product": [
+                {
+                    "name": "chicken biryani3",
+                    "price": 55
+                },
+                {
+                    "name": "peas wrap3",
+                    "price": 15
+                },
+                {
+                    "name": "chole bhature3",
+                    "price": 20
+                }
+            ]
+        }
+    ],
+    "product": [
+        {
+            "name": "chicken biryani",
+            "price": 55
+        },
+        {
+            "name": "peas wrap",
+            "price": 15
+        },
+        {
+            "name": "chole bhature",
+            "price": 20
+        }
+    ]
+}

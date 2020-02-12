@@ -7,6 +7,8 @@ abc.prototype.sum = function(){
 }
 
 //function copies wont be created every time a new object gets created
+//saves object memory
 
 const o = new abc(3,4)
 console.log(o.sum())
+
